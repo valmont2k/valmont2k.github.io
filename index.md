@@ -1,37 +1,8 @@
-# Welcome to GitHub Pages
+## Вы попали сюда не случайно
 
-You can use the [editor on GitHub](https://github.com/valmont2k/valmont2k.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Я много тренингов прошёл и всегда были люди, которые могли научить что-то делать. И группа всегда делилась на тех, кто легко делал то, что надо и тех, у кого был перед тем, чтоба делать был внутренний стопор разной силы, который им мешал. Соответственно кто-то делал и учился, большинство - нет. Много разговоров было о том, чтобы измениться внутренне, освободившись от стопоров, но никто никогда не давал универсальной техники внутреннего изменения. Все предлагали некие решения в определённой ситуации делать так или иначе. И [байбак](https://baibak.org/ru/?msfrom=efc02c72862da02cfe68916bf9bcc19f), как ранее турбо-суслик(который в начале помогает, но на самом деле тупик), есть универсальная техника изменения. В этой универсальности её главный основной плюс. Она склеивает одно из кусков. Даёт возможность соединить все ответы в одно большое понимание или скорее мироощущение. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Сайт Байбак, системы оздоровления и психологического восстановления](https://baibak.org/ru/?msfrom=efc02c72862da02cfe68916bf9bcc19f)
+[Книга Байбак](https://baibak.org/book/ru/1471/baibak.pdf)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/valmont2k/valmont2k.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
