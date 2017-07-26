@@ -5,6 +5,6 @@
 [Сайт Байбак, системы оздоровления и психологического восстановления](https://baibak.org/ru/?msfrom=efc02c72862da02cfe68916bf9bcc19f)
 
 
-[Книга Байбак](https://baibak.org/book/ru/1471/baibak.pdf)
+[Книга Байбак](https://valmont2k.github.io/baibak.pdf)
 
 
